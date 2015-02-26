@@ -6,7 +6,7 @@ exports.viewInfo = function(req,res){
 
     var i = 0;
 
-    var c, d, com, n, image, description, bio, title;
+    var c, d, com, n, image, description, bio, title, contact;
     
     var teacherLen = data1['teacher'].length;
 
@@ -24,6 +24,7 @@ exports.viewInfo = function(req,res){
             description = data1['teacher'][i]['description'];
             bio = data1['teacher'][i]['bio'];
             title = data1['teacher'][i]['title'];
+            contact = data1['teacher'][i]['contact'];
         }
         i++;
     }
@@ -36,7 +37,8 @@ exports.viewInfo = function(req,res){
         "teacherImage": image,
         "description": description,
         "bio": bio,
-        "title": title
+        "title": title,
+        "contact": contact
     });
 };
 
