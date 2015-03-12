@@ -49,16 +49,16 @@ woopra.track();
       </div>
     </nav>
 
-    <div class="container">
+    <div class="container" id="alvin">
     <h3> Teachers </h3>
-     <input type="text" id="searchTerm" class="search_box" onkeyup="doSearch()" />
+    <p> Search </p> <input type="text" id="searchTerm" class="search_box" onkeyup="doSearch()" />
 
       <table class="table table-hover" id="myTable">
         <thead>
           <tr>
             <th><p>Name</p></th>
             <th style="width: 336px;"><p>Course</p></th>
-            <!--<th><p>Department</p></th> -->
+            <th><p>Department</p></th>
           </tr>
         </thead>
         <tbody>
@@ -66,8 +66,8 @@ woopra.track();
           {{#each teacher}}
             <tr>
              <td><h5><a href="info/{{course}}" id="check"> {{name}} </a></h5></a></td> 
-              <td><h5><a href="info/{{course}}">{{course}} </a></h5></td>
-              <!--<td><h5>{{department}}</h5> -->
+              <td><h5 class="versionA"><a href="info/{{course}}">{{course}} </a></h5></td>
+              <td><h5>{{department}}</h5> 
             </tr>
           {{/each}}  
          <!-- <tr>

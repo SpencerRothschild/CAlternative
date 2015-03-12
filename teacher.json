@@ -7,27 +7,18 @@
     "department":"Computer Science",
     "image": "http://cseweb.ucsd.edu/~ricko/images/Rick-Headshot.jpg",
     "description": "Continuation of the Java language and of programming techniques. More on Inheritance. Exception handling. ",
-    "bio": "I lived through the 70s",
+    "bio": "Rick received his M.S. in Computer Science from the University of California, San Diego (UCSD) in 1987. He has been Director of the Computing Facility in the Department of Computer Science and Engineering (CSE) at UCSD from August of 1988 to July of 2001, at which time he became a full-time Lecturer in Computer Science.",
     "contact": "rord@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -38,28 +29,19 @@
     "department":"Computer Science",
     "image": "http://cseweb.ucsd.edu/~ricko/images/Rick-Headshot.jpg",
     "description": "Introduction to computer science and programming using the Java language. Basic UNIX. Modularity and abstraction. Documentation, testing and verification techniques. Basic object-oriented programming including inheritance and dynamic binding. Exception handling. Event driven programming. Experience with AWT library or other similar library",
-    "bio": "I lived through the 70s",
+    "bio": "Rick received his M.S. in Computer Science from the University of California, San Diego (UCSD) in 1987. He has been Director of the Computing Facility in the Department of Computer Science and Engineering (CSE) at UCSD from August of 1988 to July of 2001, at which time he became a full-time Lecturer in Computer Science.",
     "contact": "rord@ucsd.edu",
     "comments": [
     
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -70,28 +52,19 @@
     "department":"Computer Science",
     "image": "http://cseweb.ucsd.edu/~ricko/images/Rick-Headshot.jpg",
     "description": "Introduction to organization of modern digital computers - understanding the various components of a computer and their interrelationships. Study of a specific architecture/machine with emphasis on systems programming in C and Assembly languages in a UNIX environment.",
-    "bio": "I lived through the 70s",
+    "bio": "Rick received his M.S. in Computer Science from the University of California, San Diego (UCSD) in 1987. He has been Director of the Computing Facility in the Department of Computer Science and Engineering (CSE) at UCSD from August of 1988 to July of 2001, at which time he became a full-time Lecturer in Computer Science.",
     "contact": "rord@ucsd.edu",
     "comments": [
 
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -102,27 +75,18 @@
     "department":"Computer Science",
     "image": "http://cseweb.ucsd.edu/~ricko/images/Rick-Headshot.jpg",
     "description": "Introduction to the compilation of programming languages, practice of lexical and syntactic analysis, symbol tables, syntax-directed translation, type checking, code generation, optimization, interpretation, and compiler structure.",
-    "bio": "I lived through the 70s",
+    "bio": "Rick received his M.S. in Computer Science from the University of California, San Diego (UCSD) in 1987. He has been Director of the Computing Facility in the Department of Computer Science and Engineering (CSE) at UCSD from August of 1988 to July of 2001, at which time he became a full-time Lecturer in Computer Science.",
     "contact": "rord@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -133,27 +97,18 @@
     "department":"Computer Science",
     "image": "https://media.licdn.com/mpr/mpr/shrink_100_100/p/2/000/0db/205/1492be8.jpg",
     "description": "Use and implementation of basic data structures including linked lists, stacks, and queues. Use of advanced structures such as binary trees and hash tables. Object-oriented design including interfaces, polymorphism, encapsulation, abstract data types,pre-/post-conditions. Recursion. Uses Java and Java Collections. ",
-    "bio": "I lived through the 70s",
+    "bio": "Lecturer in the Computer Science and Engineering (CSE) Department at UCSD. I'm teaching my 37th version of CSE 12. Additionally, I run the Tutor Training program for the CSE Department.",
     "contact": "ggilespie@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -164,27 +119,18 @@
     "department":"Computer Science",
     "image": "https://media.licdn.com/mpr/mpr/shrink_100_100/p/2/000/0db/205/1492be8.jpg",
     "description": "Introduction to software development and engineering methods, including specification, design, implementation, testing, and process. an emphasis on team development, agile methods, and use of tools as IDE's, version control, and test harnesses.",
-    "bio": "I lived through the 70s",
+    "bio": "Lecturer in the Computer Science and Engineering (CSE) Department at UCSD. I'm teaching my 37th version of CSE 12. Additionally, I run the Tutor Training program for the CSE Department.",
     "contact": "ggillespie@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -195,27 +141,18 @@
     "department":"Computer Science",
     "image": "http://research.microsoft.com/en-us/events/chinahci2010/scott.jpg",
     "description": "This course is an introduction to the field of human computer interaction (HCI). It provides an overview of HCI from the perspective of cognitive science. This course is cross-listed with COGS 120.",
-    "bio": "I lived through the 70s",
+    "bio": "Scott is an Associate Professor of Cognitive Science and Computer Science & Engineering at UC San Diego, where he is a co-founder and Associate Director of the Design Lab. He previously served as Associate Professor of Computer Science at Stanford, where he co-directed the HCI Group, held the Bredt Faculty Scholar chair, and was a founding participant in the d.school. He has a dual BA in Art-Semiotics and Computer Science from Brown (with Graphic Design work at RISD), and a PhD in CS from Berkeley. ",
     "contact": "sklemmer@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -226,27 +163,18 @@
     "department":"Computer Science",
     "image": "http://cseweb.ucsd.edu/~swanson/images/steve.jpg",
     "description": "Introduction to computer architecture. Computer system design. Processor design.Control design. Memory systems.",
-    "bio": "I lived through the 70s",
+    "bio": "Steven Swanson is an associate professor in the Department of Computer Science and Engineering at the University of California, San Diego and the director of the Non-volatile Systems Laboratory. His research interests include the systems, architecture, security, and reliability issues surrounding non-volatile, solid-state memories. He also co-leads projects to develop low-power co-processors for irregular applications and to devise software techniques for using multiple processors to speed up single-threaded computations. In previous lives he has worked on scalable dataflow architectures, ubiquitous computing, and simultaneous multithreading. He received his PhD from the University of Washington in 2006 and his undergraduate degree from the University of Puget Sound.",
     "contact": "sswanson@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -262,22 +190,13 @@
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -288,27 +207,18 @@
     "department":"Computer Science",
     "image": "http://www.cse.ucsd.edu/sites/cse/files/cse/assets/news/DibaMirza.jpg",
     "description": "High-performance data structures and supporting algorithms. Use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. Also memory management,pointers, recursion. Theoretical and practical performance analysis, both average case and amortized. Uses C++ and STL",
-    "bio": "I lived through the 70s",
+    "bio": "I currently work as a Lecturer at the Department of Computer Science and Engineering at UCSD. I received my PhD and MS in Computer Engineering from the Electrical and Computer Engineering Department at UCSD. I have worked as a researcher on multidisciplinary projects in the ECE and CSE Departments and in collaboration with the Scripps Institute of Oceanography at UCSD. My research is in the field of acoustic underwater networks. I enjoy teaching both hardware and software courses in Computer Science and Engineering.",
     "contact": "dmirza@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -319,27 +229,18 @@
     "department":"Computer Science",
     "image": "http://www.cse.ucsd.edu/sites/cse/files/cse/assets/news/DibaMirza.jpg",
     "description": "Design of Boolean logic and finite state machines; two-level, multi-level combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules.",
-    "bio": "I lived through the 70s",
+    "bio": "I currently work as a Lecturer at the Department of Computer Science and Engineering at UCSD. I received my PhD and MS in Computer Engineering from the Electrical and Computer Engineering Department at UCSD. I have worked as a researcher on multidisciplinary projects in the ECE and CSE Departments and in collaboration with the Scripps Institute of Oceanography at UCSD. My research is in the field of acoustic underwater networks. I enjoy teaching both hardware and software courses in Computer Science and Engineering.",
     "contact": "dmirza@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -350,27 +251,18 @@
     "department":"Computer Science",
     "image": "http://www.skidmore.edu/mcs/images/faculty_lporter1.jpg",
     "description": "Continuation of the Java language and of programming techniques. More on Inheritance. Exception handling.  Recommended Prep: High School Algebra and familiarity with computing concepts or CSE 8A.",
-    "bio": "I lived through the 70s",
+    "bio": "I am an Assistant Teaching Professor of Computer Science at UC San Diego interested in computer science education research and computer architecture. I was previously an Assistant Professor at Skidmore College and instructor at UC San Diego and the University of San Diego.",
     "contact": "dmirza@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -381,27 +273,18 @@
     "department":"Computer Science",
     "image": "http://www.skidmore.edu/mcs/images/faculty_lporter1.jpg",
     "description": "High-performance data structures and supporting algorithms. Use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. Also memory management, pointers, recursion. Theoretical and practical performance analysis, both average case and amortized. Uses C++ and STL",
-    "bio": "I lived through the 70s",
+    "bio": "I am an Assistant Teaching Professor of Computer Science at UC San Diego interested in computer science education research and computer architecture. I was previously an Assistant Professor at Skidmore College and instructor at UC San Diego and the University of San Diego.",
     "contact": "lporter@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -412,27 +295,18 @@
     "department":"Computer Science",
     "image": "http://www.skidmore.edu/mcs/images/faculty_lporter1.jpg",
     "description": "Introduction to computer architecture. Computer system design. Processor design. Control design. Memory systems.",
-    "bio": "I lived through the 70s",
+    "bio": "I am an Assistant Teaching Professor of Computer Science at UC San Diego interested in computer science education research and computer architecture. I was previously an Assistant Professor at Skidmore College and instructor at UC San Diego and the University of San Diego.",
     "contact": "lporter@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -443,27 +317,18 @@
     "department":"Computer Science",
     "image": "http://cse.ucsd.edu/sites/cse/files/cse/assets/news/SusanMarx.jpg",
     "description": "Introduces students to modern structured programming techniques using the C programming language. Students will gain some idea of the sorts of tasks for which the computer is highly suited, and which sorts of tasks it is not. The course also presents the basic skills for using a PC operating system with graphical user interface. File maintenance utilities are also covered.",
-    "bio": "I lived through the 70s",
+    "bio": "Outstanding Instructor 1998 and 1994 UCSD Extension CSE",
     "contact": "smarx@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -474,27 +339,18 @@
     "department":"Computer Science",
     "image": "http://cse.ucsd.edu/sites/cse/files/cse/assets/news/SusanMarx.jpg",
     "description": "tInformation technology plays an increasingly large role in both society and the individual lives of citizens. This course attempts to provide students with basic information they need to deal with information technology. It is more of a concepts course than a programming course, but some simpleprogramming will be done as part of teaching concepts.",
-    "bio": "I lived through the 70s",
+    "bio": "Outstanding Instructor 1998 and 1994 UCSD Extension CSE",
     "contact": "smarx@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -505,27 +361,18 @@
     "department":"Computer Science",
     "image": "http://cse.ucsd.edu/sites/cse/files/cse/assets/news/SusanMarx.jpg",
     "description": "Fundamentals of computer programming and basic software design covering topics related to variables, functions, and control structures; writing, testing, and debugging programs in MATLAB. Examples focus on scientific applications. Students may not take CSE 7 after completing COGS 18.",
-    "bio": "I lived through the 70s",
+    "bio": "Outstanding Instructor 1998 and 1994 UCSD Extension CSE",
     "contact": "smarx@ucsd.edu",
     "comments": [
-        {
+          {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   },
@@ -536,27 +383,18 @@
     "department":"Computer Science",
     "image": "http://www.cs.hmc.edu/~alvarado/research/ChristineAlvarado-small.jpg",
     "description": "Introductory course for students interested in computer science. Fundamental concepts of applied computer science using media computation. Exercises in the theory and practice of computer science. Hands-on experience with designing, editing, compiling, and executing programming constructs and applications.",
-    "bio": "I lived through the 70s",
+    "bio": "Christine Alvarado is a Lecturer with Security of Employment (a tenured teaching-focused professor) in Computer Science and Engineering at the University of California, San Diego.",
     "contact": "calvarado@ucsd.edu",
     "comments": [
         {
             "id" : 1,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
+            "content": "Teaches well would take another class with them",
+            "evsa": "I expected this class to be really confusing but their teaching style made it really easy",
+            "style": "The teacher uses pictures to help convey their message",
+            "positives": "The class is really interesting",
+            "negatives": "Sometimes the teacher teaches too slow",
+            "ad": "If you are looking for a fun class to take. Take this one!"
 
-        },
-        {   
-            "id" : 2,
-            "content": "Good One",
-            "evsa": "this is evsa",
-            "style": "this is style",
-            "positives": "this is positives",
-            "negatives": "these are negatives",
-            "ad": "this is ad"
         }
     ]
   }

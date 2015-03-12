@@ -11,6 +11,18 @@ $(document).ready(function() {
 function initializePage() {
 	// get the DIV to add content to
 
+
+  $(".versionA").click(function(){
+    woopra.track("a_version_like_click");
+    console.log("versionA");
+  });
+
+  $(".versionB").click(function(){
+    woopra.track("b_version_like_click");
+    console.log("versionB");
+  });
+
+
 	$('#addFriendForm #submitBtn').click(function(e) {
 		//console.log('clicked');
 		console.log("DID WE WINDSADADADADSA?");
